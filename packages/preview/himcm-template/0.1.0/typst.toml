@@ -1,0 +1,9 @@
+[package]
+name = "himcm-template"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = ["Daniel"]
+license = "GPL3"
+description = "A HiMCM (High School Mathematical Contest in Modeling) template for Typst"
+keywords = ["himcm", "contest", "math", "template", "education"]
+categories = ["layout"]
